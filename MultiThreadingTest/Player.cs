@@ -12,15 +12,15 @@ namespace MultiThreadingTest
 
         
 
-        public void DrawCard(List<Card> deck, Object Locked)
+        public void DrawCard(List<Card> deck)
         {
 
-            lock (Locked)
-            {
+            
+            
                 currentCards.Add(deck[0]);
                 deck.Remove(deck[0]);
                 Console.WriteLine("Player drew {0}", currentCards[0].GetCardInfo());
-            }
+            
             
         }
     }

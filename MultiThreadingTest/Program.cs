@@ -11,19 +11,14 @@ namespace MultiThreadingTest
         {
             List<Card> deck = CardDeck();
             Shuffle(deck);
-            Object Lock = new Object();
             Player p1 = new Player();
             Player p2 = new Player();
 
-            Thread t1 = new Thread(() => p2.DrawCard(deck, Lock));
-            Thread t2 = new Thread(() => p1.DrawCard(deck, Lock));
-
-            
-
+            Thread t1 = new Thread(() => p1.DrawCard(deck));
+            Thread t2 = new Thread(() => p2.DrawCard(deck));
             t1.Start();
             t2.Start();
             
-
 
     }
 
