@@ -19,7 +19,10 @@ namespace MultiThreadingTest
             {
                 currentCards.Add(deck[0]);
                 deck.Remove(deck[0]);
-                Console.WriteLine("Player drew {0}", currentCards[0].GetCardInfo());
+                Console.Write("Attempting to draw card.... ");
+                Thread.Sleep(2000);
+                Console.WriteLine("drew {0}", currentCards[0].GetCardInfo());
+
             }
             
         }

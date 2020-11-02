@@ -11,3 +11,16 @@ C:\Users\-Nara\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\netc
 C:\Users\-Nara\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.dll
 C:\Users\-Nara\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.pdb
 C:\Users\-Nara\source\repos\MultiThreadingTest\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.genruntimeconfig.cache
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.exe
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.deps.json
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.runtimeconfig.json
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.runtimeconfig.dev.json
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.dll
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\bin\Debug\netcoreapp3.1\MultiThreadingTest.pdb
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.csprojAssemblyReference.cache
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.AssemblyInfoInputs.cache
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.AssemblyInfo.cs
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.csproj.CoreCompileInputs.cache
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.dll
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.pdb
+C:\Users\kiima\Source\Repos\MultiThreading\MultiThreadingTest\obj\Debug\netcoreapp3.1\MultiThreadingTest.genruntimeconfig.cache
